@@ -2,6 +2,14 @@
 
 A native Daft extension for HTML processing. Built on [scraper](https://crates.io/crates/scraper) / [html5ever](https://crates.io/crates/html5ever), so it handles real-world malformed HTML correctly.
 
+## This project has moved!
+
+This repository has been transferred to the official Daft organization and is now maintained at:
+
+**https://github.com/daft-engine/daft-html**
+
+Please use the new repository for issues, pull requests, and future updates. This repository is archived and will no longer receive updates.
+
 ## Installation
 
 ```bash
